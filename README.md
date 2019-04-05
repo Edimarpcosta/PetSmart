@@ -1,17 +1,16 @@
-PetSmart is a Project to study Vet Pharmacy and others informations about this.
-#
-PetSmart é um projeto para estudar Farmácia Veterinária e outras informações sobre isso.
-#
-PetSmart es un proyecto para estudiar Vet Pharmacy y otras informaciones sobre esto.
-#
-PetSmart est un projet d'étude de la pharmacie vétérinaire et d'autres informations à ce sujet.
-#
-PetSmart - это проект по изучению Ветеринарной аптеки и другой информации об этом.
-#
-PetSmart是一个研究兽医药房及其他有关此事的信息的项目。
-#
-PetSmart是一個研究獸醫藥房及其他有關此事的信息的項目。
-#
-PetSmart는 수의 약국 및 기타 정보를 연구하는 프로젝트입니다.
-#
+#pt-BR
+O Pet Smart foi desenvolvido apenas para contribuir com o conhecimento da área veterinária.
+Sendo assim, fica vedada a comercialização deste software a terceiros.
+Não use este software para qualquer fonte de lucro, apenas use para estudar os produtos aqui contidos.
+Se você não concorda, por favor não instale o Pet Smart.
+Att:
+Edimar Pinheiro
+-
+#en-US
+Pet Smart was developed only to contribute to veterinary knowledge.
+Therefore, the commercialization of this software to third parties is prohibited.
+Do not use this software for any profit source, just use it to study the products contained herein.
+If you do not agree, please do not install Pet Smart.
+Att:
+Edimar Pinheiro
 
